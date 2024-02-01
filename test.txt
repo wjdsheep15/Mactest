@@ -1,6 +1,4 @@
 test test
 commit 3 commit 3
-commit 2 commit 2
-commit 4 commit 4
-commit 5 commit 5
 testtest
+commit : option + <- + backspace
