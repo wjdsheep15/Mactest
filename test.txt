@@ -1,4 +1,6 @@
-test test
+test
 commit 3 commit 3
 testtest
-commit : option + <- + backspace
+commit 단어단위 삭제 :  옵션 + <- + backspace
+commit 단어단위 이동 : 옵션 <- or ->
+commit 문장 좌우 이동 : command <- or ->
